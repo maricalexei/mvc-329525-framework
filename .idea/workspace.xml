@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06456049-faa4-44a3-be6d-3d9566a9f511" name="Changes" comment="first commit of the mvc framework, added the base folders and started git" />
+    <list default="true" id="06456049-faa4-44a3-be6d-3d9566a9f511" name="Changes" comment="first commit of the mvc framework, added the base folders and started git">
+      <change beforePath="$PROJECT_DIR$/../mvc-329525-framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc-329525-framework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc-329525-framework/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc-329525-framework/public/.htaccess" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645775132215</updated>
       <workItem from="1645775133096" duration="1629000" />
-      <workItem from="1645777364564" duration="1208000" />
+      <workItem from="1645777364564" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="first commit of the mvc framework, added the base folders and started git">
       <created>1645777090809</created>
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645777090809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit of the mvc framework, added the base folders and started git">
+      <created>1645778753580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645778753580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
